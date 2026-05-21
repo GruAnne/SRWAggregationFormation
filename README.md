@@ -9,7 +9,7 @@ Dataset accompanying research article 'Post-collapse habitat selection: density-
 
 A. Grundlehner, [ADD CITATION]
 
-# Common abbreviations
+ * Common abbreviations *
 CC = Cow-calf pair
 UA = Unaccompanied individual
 
@@ -22,7 +22,7 @@ UA = Unaccompanied individual
 4) '...R' To model temporal trends in the annual abundance of CC, UA and Totals, and calculate growth rates.
 
 
-# Data files:
+# Data files
 
 1)	'SRWAbundance_byArea.csv'
 
