@@ -7,10 +7,14 @@ Scripts and data accompanying manuscript submitted to PNAS,  investigating the s
 
 Dataset accompanying research article 'Post-collapse habitat selection: density-dependent behavioral shifts governed the persistence of a migratory mammal population’ submitted to PNAS. Please familiarize yourself with the contents of the article and its contexts before using attached datasets and R code. Any use of the data or code should refer to the original research article:
 
-A. Grundlehner, [ADD CITATION]
 
- * Common abbreviations *
+[ADD CITATION]
+
+
+Common abbreviations
+
 CC = Cow-calf pair
+
 UA = Unaccompanied individual
 
 
