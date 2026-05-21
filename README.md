@@ -25,6 +25,14 @@ UA = Unaccompanied individual
 3) '...R' Contains code to run cluster analyses in order to identify aggregation areas
 4) '...R' To model temporal trends in the annual abundance of CC, UA and Totals, and calculate growth rates.
 
+#' Description of the scripts and required datasets
+
+1) 'RipleyK.R'
+Description:
+Required datasets:
+"fg_grid0.1_AggrAreaAttributed.xlsx" --> (LonBin, LatBin, Year, total)
+
+2)
 
 # Data files
 
