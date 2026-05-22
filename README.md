@@ -20,9 +20,9 @@ UA = Unaccompanied individual
 
 # R Scripts
 
-1) '...R' For calculating and plotting Ripley's K coefficient for spatial clustering
-2) '...R' Contains code to run cluster analyses in order to identify aggregation areas
-3) '...R' To model temporal trends in the annual abundance of CC, UA and Totals, and calculate growth rates; and to test density dependent affects
+1) 'RipleyK.R' For calculating and plotting Ripley's K coefficient for spatial clustering
+2) 'ClusterAnalysis.R' Contains code to run cluster analyses in order to identify aggregation areas
+3) 'GAMs_GrowthAbundanceDensDep.R' To model temporal trends in the annual abundance of CC, UA and Totals, and calculate growth rates; and to test density dependent affects
 
 #' Description of the scripts and required datasets
 
