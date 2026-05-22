@@ -52,40 +52,62 @@ Required datasets:
 This file contains annual SRW abundance as used for statistical analysis in the manuscript. It contains the following columns:
 
 Column: AggregationArea
+
 Description: Name of the aggregation area, corresponding to the sites distinguished in the manuscript (see Figure 1).
 
+
 Column: Year
+
 Description: Year of observation
 
+
 Column: Sum_FemaleCalfPairs 
+
 Description: The sum of female-calf pairs (number of CC pairs) counted in the aggregation area in the focal year. Note that this is the sum of female-calf pairs, not the number of individuals (which can be derived by multiplying the number of pairs by two).
 
+
 Column: Sum_UnaccompaniedAnimals
+
 Description: The sum of unaccompanied animals (number of individuals) counted in the aggregation area in the focal year. Unaccompanied animals are all SRW individuals that are not a calf or female with a calf. This includes males, juveniles, and females without a calf.
+
 
 2) 'fg_grid0.1_AggrAreaAttributed.xlsx'
 
 This file contains gridded SRW abundance data. This data is already filtered to only contain annual maximum values per grid cell per year.
 
+
 Column: Year
-DDescription: Year of observation
+
+Description: Year of observation
+
 
 Column: AggregationArea
+
 Description: Name of the aggregation area, corresponding to the sites distinguished in the manuscript (see Figure 1).
 
+
 Column: LonBin
+
 Description: Longitude of grid cell
 
+
 Column: LatBin
+
 Description: Latitude of grid cell
 
+
 Column: calf	
+
 Description: Total number of calves in the grid cell
 
+
 Column: total	
+
 Description: Total number of SRWs in the grid cell
 
+
 Column: unacc
+
 Description: Total number of unaccompanied individuals in the grid cell
 
 
@@ -97,18 +119,28 @@ This is a shapefile containing the outline of the identified aggregation areas; 
 
 This file contains annual maximum abundances for each individual aggregation area (always observed in Aug/Sept, see Methods section in the manuscript). This data is already filtered to only contain annual maximum values per area per year.
 
+
 Column: Year
-DDescription: Year of observation
+
+Description: Year of observation
+
 
 Column: AggregationArea
+
 Description: Name of the aggregation area, corresponding to the sites distinguished in the manuscript (see Figure 1).
 
+
 Column: calf	
+
 Description: Total number of calves in the grid cell
 
+
 Column: total	
+
 Description: Total number of SRWs in the grid cell
 
+
 Column: unacc
+
 Description: Total number of unaccompanied individuals in the grid cell
 
