@@ -28,9 +28,9 @@ UA = Unaccompanied individual
 
 1) 'RipleyK.R'
 Description: Calculate Ripley's K 
+
 Required datasets:
 "fg_grid0.1_AggrAreaAttributed.xlsx"
---> (aggregation_area	LonBin	LatBin	Year	calf	total	unacc)
 
 2) 'ClusterAnalysis.R'
 Description: Run 2-step cluster analysis (see Main text and Supporting information of research article) to identify aggregation areas
@@ -42,8 +42,8 @@ Required datasets:
 Description: This script contains code to fit and validate the GAM models for the temporal trends of individual aggregation areas; it contains code for plotting area-specific trends in abundances and growth rates; And to run statistical tests to check whether annual abundances (regional and local; tested for different groups) affect the occupation of the areas (density-dependent effects).
 
 Required datasets:
-"clusteranalysis_polygons_aggregation_areas.shp"
-"fg_area.csv"
+"clusteranalysis_polygons_aggregation_areas.shp"; "fg_area.csv"
+
 
 # Data files
 
@@ -91,7 +91,7 @@ Description: Total number of unaccompanied individuals in the grid cell
 
 4) 'clusteranalysis_polygons_aggregation_areas.shp'
 
-This is a shapefile containing the outline of the identified aggregation areas
+This is a shapefile containing the outline of the identified aggregation areas; can also be made using ClusterAnalysis.R
 
 3) 'fg_area_GH.csv'
 
