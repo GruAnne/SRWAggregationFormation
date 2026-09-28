@@ -1,14 +1,13 @@
 # SRWAggregationFormation
 
-Scripts and data accompanying manuscript submitted to PNAS,  investigating the spatiotemporal dynamics of SRWs' coastal habitat use and site fidelity during five decades of population recovery 
+Scripts and data accompanying manuscript accepted for publication in PNAS (2026),  investigating the spatiotemporal dynamics of SRWs' coastal habitat use and site fidelity during five decades of population recovery 
 
 
 # README
 
 Dataset accompanying research article 'Post-collapse habitat selection: density-dependent behavioral shifts governed the persistence of a migratory mammal population’ submitted to PNAS. Please familiarize yourself with the contents of the article and its contexts before using attached datasets and R code. Any use of the data or code should refer to the original research article:
 
-
-[ADD CITATION]
+[[CITATION TBA]]
 
 
 Common abbreviations
