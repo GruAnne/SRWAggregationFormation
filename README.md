@@ -1,6 +1,6 @@
 # SRWAggregationFormation
 
-Dataset accompanying research article:
+Scripts and dataset accompanying research article:
 
 A. Grundlehner, V. Andrews-Goff, M.C. Double, J.N. Smith, M.J. Brasier, K.A. Cresswell,  & S.P. Corney,  
 Spatial reorganization during post-collapse population growth suggests conspecific attraction in baleen whale nursing grounds, Proc. Natl. Acad. Sci. U.S.A. 123 (44) e2602745123, https://doi.org/10.1073/pnas.2602745123 (2026).
