@@ -1,17 +1,15 @@
 # SRWAggregationFormation
 
-Scripts and data accompanying manuscript accepted for publication in PNAS (2026),  investigating the spatiotemporal dynamics of SRWs' coastal habitat use and site fidelity during five decades of population recovery 
-
-
-# README
-
-Dataset accompanying research article 'Post-collapse habitat selection: density-dependent behavioral shifts governed the persistence of a migratory mammal population’ submitted to PNAS. Please familiarize yourself with the contents of the article and its contexts before using attached datasets and R code. Any use of the data or code should refer to the original research article:
+Dataset accompanying research article:
 
 A. Grundlehner, V. Andrews-Goff, M.C. Double, J.N. Smith, M.J. Brasier, K.A. Cresswell,  & S.P. Corney,  
 Spatial reorganization during post-collapse population growth suggests conspecific attraction in baleen whale nursing grounds, Proc. Natl. Acad. Sci. U.S.A. 123 (44) e2602745123, https://doi.org/10.1073/pnas.2602745123 (2026).
 https://doi.org/10.1073/pnas.2602745123
 
-[[CITATION TBA]]
+Please familiarize yourself with the contents of the article and its contexts before using attached datasets and R code. Any use of the data or code should refer to the above research article.
+
+
+# README
 
 
 Common abbreviations
